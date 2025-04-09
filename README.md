@@ -1,12 +1,58 @@
 # ScoutSync
-AI- POWERED SPORTS SOLUTION
+AI-POWERED SPORTS SOLUTION
 
-🏟️ Scout Sync – AI-Powered Sports Scouting Platform
-Live App: Try Scout Sync
-🚧 Note: AI video analysis on uploaded videos is currently disabled as we are retraining the model to improve accuracy.
+🏟️ Scout Sync – An AI-powered sports Scouting and Predictions Platform
+Live App: Try Scout Sync 
+🚧 Note: AI video analysis on uploaded videos is currently disabled as we retrain the model to improve accuracy.
 
 📌 Project Overview
-Scout Sync is an AI-powered scouting platform designed to revolutionize how coaches, academies, and sports analysts evaluate talent and track performance. Whether it's uploading a player's video for in-depth analysis or exploring stats and predictions for Football and Formula 1, Scout Sync centralizes everything into a sleek and intuitive dashboard.
+Scout Sync is an AI-powered scouting and prediction platform built for two primary use cases:
+
+🧠 Solution 1: Player Scouting & Performance Analysis
+👤 Target Users: Coaches, Academies, Scouts
+🎯 Purpose: Evaluate individual athletes using AI-driven insights.
+
+✅ Features:
+Upload Player Videos (feature coming soon): Analyze speed, agility, ball control.
+
+Player Profiles & Ratings: View stats, skill breakdowns, and AI-generated scores.
+
+Scouting Reports: Auto-generated reports for recruitment or coaching review.
+
+📌 Real-World Use Case Example:
+A football coach at a youth academy uploads match footage of a player.
+Once video analysis is enabled, the AI processes this footage to generate:
+
+Player’s average sprint speed
+
+Ball control rating (out of 10)
+
+Agility movement heatmap
+
+Then, the coach views the player’s full profile in the “Players” tab, checks recruitment recommendations, and downloads a PDF report for sharing with talent scouts.
+
+📊 Solution 2: Football & Formula 1 Team Insights and Predictions
+👥 Target Users: Sports Analysts, Fans, Strategists
+🎯 Purpose: Access team & driver stats, visualize performance, and view AI predictions.
+
+✅ Features:
+Football Dashboard: See team stats (possession, win ratio), compare players, and view performance trends.
+
+Formula 1 Section: Explore driver cornering ability, lap times, pit stop speed, etc.
+
+Future Predictions (Coming Soon): Get AI-generated predictions for match results or race outcomes.
+
+📌 Real-World Use Case Example:
+A Formula 1 fan opens the dashboard to compare Hamilton vs. Verstappen over the last 5 races.
+The app shows:
+
+Average lap time comparison
+
+Pit stop efficiency
+
+Cornering rating (based on previous race data)
+
+Meanwhile, a football data analyst uses the platform to study two teams’ ball possession trends, compares key players, and evaluates win probabilities before an upcoming match.
 
 ✨ Key Features
 🔍 Dashboard Overview
