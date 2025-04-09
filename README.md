@@ -1,0 +1,2 @@
+# ScoutSync
+AI- POWERED SPORTS SOLUTION
