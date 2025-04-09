@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --font-sans: 'Inter', sans-serif;
+    --font-heading: 'Manrope', sans-serif;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html {
+    font-feature-settings: "cv02", "cv03", "cv04", "cv09", "cv11";
+  }
+
+  body {
+    @apply font-sans antialiased bg-[#f8f9ff] text-[#202123] tracking-tight;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading font-medium tracking-tight;
+  }
+}
+
+/* OpenAI-like gradient backgrounds */
+.bg-gradient-openai {
+  @apply bg-gradient-to-br from-[#f7f7f8] to-[#ececf1];
+}
+
+.bg-gradient-header {
+  @apply bg-gradient-to-r from-[#10a37f] to-[#0e9272];
+}
+
+.bg-gradient-card {
+  @apply bg-gradient-to-br from-white to-[#f9fafc];
+}
+
+.bg-gradient-sidebar {
+  @apply bg-gradient-to-b from-[#202123] to-[#171719];
+}
+
+/* Glassmorphism effect for cards */
+.glass {
+  @apply bg-white/90 backdrop-blur-sm border border-gray-100/20 shadow-sm;
+}
+
+/* Button styles */
+.btn-openai {
+  @apply px-4 py-2 rounded-md bg-[#10a37f] text-white font-medium hover:bg-[#0e9272] transition-colors;
+}
+
+/* Modern subtle shadows */
+.shadow-soft {
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.02);
+}
+
+/* Subtle glow effect */
+.glow {
+  box-shadow: 0 0 25px rgba(16, 163, 127, 0.1);
+}
+
+/* Animation for hover effects */
+.hover-lift {
+  @apply transition-all duration-300;
+}
+.hover-lift:hover {
+  transform: translateY(-4px);
+}
