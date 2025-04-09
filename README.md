@@ -32,14 +32,14 @@ Ratings
 
 Skill breakdowns
 
-Recruitment recommendations![483524243_1998651067289119_8630623460705935926_n](https://github.com/user-attachments/assets/026922ae-9778-4965-9ea2-a0bf1768c5c7)
+
 ![487904972_3508689799265726_2761796033548278252_n](https://github.com/user-attachments/assets/9d83ded4-b3f6-4afe-b470-9a4f1c7e3aac)
 ![487886387_2093477777764714_1258225506586194837_n](https://github.com/user-attachments/assets/36c2aa7c-693b-4f6d-b087-024ee0fe39c4)
 ![488249097_1179484506826419_7785457687414663541_n](https://github.com/user-attachments/assets/49b46dcb-f660-43b9-8923-d263d8bcac4e)
 ![486870879_9565494040193350_3473059346975269462_n](https://github.com/user-attachments/assets/4186a0f0-4628-46c1-95c0-b1c3086477e9)
 ![489089011_1173841944753634_1336957439926402952_n](https://github.com/user-attachments/assets/0128f5a0-e155-4b40-a2dd-44d8c92c290b)
 ![489443961_1182454816695984_7216815534024976732_n](https://github.com/user-attachments/assets/b11e38fe-e29f-4413-adee-90728f332f49)
-
+Recruitment recommendations![483524243_1998651067289119_8630623460705935926_n](https://github.com/user-attachments/assets/026922ae-9778-4965-9ea2-a0bf1768c5c7)
 
 ⚽ Football Section
 Access team stats, win/loss ratios, possession
