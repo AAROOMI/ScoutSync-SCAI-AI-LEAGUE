@@ -114,6 +114,8 @@ Database: Firebase / Firestore
 AI Engine: Python (model training, temporarily offline)
 
 🔗 Try It Live
-🌐 Launch the App
+🌐 Launch the App :
+
+https://f388c084-f4b5-4967-9df3-5ab57346bcad-00-dyzrnvfx1p15.spock.replit.dev/f1
 
 We’re in the prototype phase, actively enhancing our video analysis AI and expanding our dataset.
