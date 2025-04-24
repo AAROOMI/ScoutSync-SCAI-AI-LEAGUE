@@ -5,6 +5,8 @@ AI-POWERED SPORTS SOLUTION
 🏟️ Scout Sync – An AI-powered sports Scouting and Predictions Platform
 Live App: Try Scout Sync 
 
+https://scoutsync.replit.app
+
 📌 Project Overview
 Scout Sync is an AI-powered scouting and prediction platform built for two primary use cases:
 
@@ -117,7 +119,7 @@ Summary of scouting activity: players analyzed, potential recruits, prediction c
 
 Upload Video Panel
 Drag-and-drop or browse to upload player footage for AI analysis.
-(Temporarily disabled as the model is being fine-tuned)
+
 
 Latest Analysis Section
 Preview of the last analyzed video with metrics like:
@@ -149,7 +151,7 @@ Compare teams, view league stats
 
 Explore player performance and form
 
-Predictive features (coming soon)
+Predictive features
 
 Formula 1 Section:
 
@@ -159,7 +161,7 @@ Pit stop and team performance metrics
 
 Historical data visualization
 
-Future prediction engine (under development)
+Future prediction engine
 
 🧪 Tech Stack
 Frontend: ReactJS, TailwindCSS
@@ -173,6 +175,5 @@ AI Engine: Python (model training, temporarily offline)
 🔗 Try It Live
 🌐 Launch the App :
 
-https://f388c084-f4b5-4967-9df3-5ab57346bcad-00-dyzrnvfx1p15.spock.replit.dev/
+https://scoutsync.replit.app
 
-We’re in the prototype phase, actively enhancing our video analysis AI and expanding our dataset.
