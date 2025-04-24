@@ -4,7 +4,6 @@ AI-POWERED SPORTS SOLUTION
 
 🏟️ Scout Sync – An AI-powered sports Scouting and Predictions Platform
 Live App: Try Scout Sync 
-🚧 Note: AI video analysis on uploaded videos is currently disabled as we retrain the model to improve accuracy.
 
 📌 Project Overview
 Scout Sync is an AI-powered scouting and prediction platform built for two primary use cases:
@@ -127,6 +126,10 @@ Speed
 
 Agility
 
+Physical
+
+Dribbling
+
 Ball Control
 
 Players Section
@@ -140,7 +143,7 @@ Auto-generated summaries for sharing or archiving player performance.
 Access deep insights into teams, players, races, and predictive analytics.
 
 🧩 UI Walkthrough
-Football Section
+Football Section:
 
 Compare teams, view league stats
 
@@ -148,7 +151,7 @@ Explore player performance and form
 
 Predictive features (coming soon)
 
-Formula 1 Section
+Formula 1 Section:
 
 Driver insights (speed, cornering, reaction time)
 
