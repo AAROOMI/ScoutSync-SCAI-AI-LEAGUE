@@ -1,4 +1,4 @@
-# ScoutSync
+![490975377_1069098595091916_8150977997862236764_n (1)](https://github.com/user-attachments/assets/bf99849c-94cf-46bc-9d1c-1e3fbdac7c75)# ScoutSync
 AI-POWERED SPORTS SOLUTION
 
 🏟️ Scout Sync – An AI-powered sports Scouting and Predictions Platform
@@ -80,8 +80,11 @@ Skill breakdowns
 
 
 ![487904972_3508689799265726_2761796033548278252_n](https://github.com/user-attachments/assets/9d83ded4-b3f6-4afe-b470-9a4f1c7e3aac)
-![487886387_2093477777764714_1258225506586194837_n](https://github.com/user-attachments/assets/36c2aa7c-693b-4f6d-b087-024ee0fe39c4)
-![488249097_1179484506826419_7785457687414663541_n](https://github.com/user-attachments/assets/49b46dcb-f660-43b9-8923-d263d8bcac4e)
+![490975377_1069098595091916_8150977997862236764_n (1)](https://github.com/user-attachments/assets/3c8623b4-f8c6-4dd2-8f2f-f95dab98335c)
+![485848730_699982009139423_1746487347381022770_n](https://github.com/user-attachments/assets/6fbc2c35-43b4-4b2e-9e99-9b8b14b81d3e)
+![Uploading 491019095_2011127746391823_2335759795928319556_n.png…]()
+![Screenshot 2025-04-24 193947](https://github.com/user-attachments/assets/0536df4e-8bb0-42fb-8787-050f51af2c74)
+![491019095_2011127746391823_2335759795928319556_n (1)](https://github.com/user-attachments/assets/0778b7c5-8c15-417f-b42c-6378c1f8a21b)
 ![486870879_9565494040193350_3473059346975269462_n](https://github.com/user-attachments/assets/4186a0f0-4628-46c1-95c0-b1c3086477e9)
 ![489089011_1173841944753634_1336957439926402952_n](https://github.com/user-attachments/assets/0128f5a0-e155-4b40-a2dd-44d8c92c290b)
 ![489443961_1182454816695984_7216815534024976732_n](https://github.com/user-attachments/assets/b11e38fe-e29f-4413-adee-90728f332f49)
